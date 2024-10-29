@@ -1,0 +1,14 @@
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\bin\Debug\net8.0\Capgemini_Assesment.exe
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\bin\Debug\net8.0\Capgemini_Assesment.deps.json
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\bin\Debug\net8.0\Capgemini_Assesment.runtimeconfig.json
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\bin\Debug\net8.0\Capgemini_Assesment.dll
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\bin\Debug\net8.0\Capgemini_Assesment.pdb
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.AssemblyInfoInputs.cache
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.AssemblyInfo.cs
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.csproj.CoreCompileInputs.cache
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.dll
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\refint\Capgemini_Assesment.dll
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.pdb
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\Capgemini_Assesment.genruntimeconfig.cache
+C:\Users\sakshi\source\repos\Capgemini_Assesment\Capgemini_Assesment\obj\Debug\net8.0\ref\Capgemini_Assesment.dll
